@@ -17,8 +17,8 @@ collections:
       - { name: body, label: Body, widget: markdown }
 
 {
-  "resolve": "gatsby-plugin-netlify-cms", 
-  "options": {
-    "enableIdentityWidget": false
+  resolve: 'gatsby-plugin-netlify-cms',
+  options: {
+    enableIdentityWidget: false,
   }
-};
+}
