@@ -1,6 +1,10 @@
 backend:
   name: test-repo
 
+backend:
+  name: github
+  repo: vanbumi/netlify-cms-tutorial
+
 media_folder: static/assets
 public_folder: assets
 
